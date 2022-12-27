@@ -2,7 +2,7 @@
 <resources>
 
     <!--application name-->
-    <string name="app_name">Nep Stream</string>
+    <string name="app_name">Nep Stream B</string>
 
     <!--bottom navigation menu name Recent-->
     <string name="title_nav_recent">Home</string>
@@ -15,7 +15,7 @@
     <string name="search_hint">Search&#8230;</string>
 
     <!--share-->
-    <string name="share_title">NEP TV</string>
+    <string name="share_title">NEP Stream</string>
     <string name="share_content">I Would like to share this with you.</string><!--<string name="share_content">I Would like to share this with you. Here You Can Download This Application from PlayStore</string>-->
 
     <!--network-->
