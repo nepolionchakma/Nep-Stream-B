@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322453782958",
+    "project_id": "nep-tv-d5ebc",
+    "storage_bucket": "nep-tv-d5ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:eacbb5f78248e9ab94c83f",
+        "android_client_info": {
+          "package_name": "com.app.neptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
